@@ -70,6 +70,7 @@ public class Movie_main {
 				Keywords g = new Keywords(n[0], n[1]);
 				k.add(g);
 
+				
 			}
 			kWordScan.close();
 
